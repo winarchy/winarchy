@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]<img align="left" alt="Coding" width="400" src="https://github.com/winarchy/winarchy/blob/main/Winarko%20Sulistiyo.png">
 <h1 align="center">Hi 👋, I'm Winarko</h1>
 <h3 align="center">A passionate back end developer from Indonesia</h3>
 <img align="left" alt="Coding" width="400" src="https://github.com/winarchy/winarchy/blob/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif">
