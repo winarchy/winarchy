@@ -1,28 +1,81 @@
-![MasterHead](https://github.com/winarchy/winarchy/blob/main/Winarko%20Sulistiyo.png)
-<h1 align="center">Hi 👋, I'm Winarko</h1>
-<h3 align="center">A passionate back end developer from Indonesia</h3>
-<img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/winarchy/winarchy/main/1-.gif">
+<!-- # <p align = "center" >Hi 👋, I'm Avie:cherry_blossom: </p> -->
+ <p align = "center" ><img align="center"  src="https://github.com/avie-dev/avie-dev/blob/master/readme_banner.png?raw" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=winarchy&label=Profile%20views&color=0e75b6&style=flat" alt="winarchy" /> </p>
+<table>
+<tr>
+ <th>
+ About Me
+ </th>
+<th>
+Tech Stack
+</th>
+</tr>
 
-<p align="left"> <a href="https://twitter.com/winarchy_" target="blank"><img src="https://img.shields.io/twitter/follow/winarchy_?logo=twitter&style=for-the-badge" alt="winarchy_" /></a> </p>
+<tr>
+ <td width="70%">
+   <ul>
+     <li> Hi 👋, I'm Avie:cherry_blossom: </li>
+     <li> A Filipino engineer working in Japan 🇵🇭:jp: 
+     <li> 8 years experience as a Back-end/BI/Data Engineer</li>
+     <li> I'm a community leader at Open Source Software PH (https://ossph.org/)</li>
+     <li> I'm a community manager at 4C (https://www.4c.rocks/) </li>
+     <li> Now studying:   
+        <ul> 
+          <li> System design </li>   
+          <li> Digital Illustration </li> 
+        </ul>          
+     </li>  
+     <li> Hobbies:
+        <ul> 
+          <li> Learning, teaching Japanese Language and talking to people</li>
+          <li> Drawing, reading manga and watching anime </li>
+          <li> Web Design </li>
+          <li> Hosting Twitter Spaces </li>
+          <li> OpenSource </li>
+        </ul>
+     </li>  
+   </ul> 
+</td>
+<td>
+    <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
+    <img src="https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat">    
+    <img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat">
+    <img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=flat">    
+    <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&style=flat">   
+    <img src="https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat">
+    <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
+    <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
+    <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
+    <img src="https://img.shields.io/badge/-CakePHP-D3DC43.svg?logo=cakephp&style=flat">
+    <img src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat">
+    <img src="https://img.shields.io/badge/-React-555.svg?logo=react&style=flat">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&style=flat">  
+    <img src="https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat">
+    <img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat">
+    <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat">
+    <img src="https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat">
+    <img src="https://img.shields.io/badge/-Xcode-EEE.svg?logo=xcode&style=flat">
+    <img src="https://img.shields.io/badge/-intellij%20IDEA-000.svg?logo=intellij-idea&style=flat">
+    <img src="https://img.shields.io/badge/-Nginx-bfcfcf.svg?logo=nginx&style=flat">  
+    <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white&style=flat">  
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&style=flat">
+  </td>
+</tr>
+</table>
 
-- 🌱 I’m currently learning **Node.js, Express etc.**
+<!---
+#### GitHub Stats 
+<hr/>
 
-- 📫 How to reach me **winarkosulistiyo911@gmail.com**
+[![trophy](https://github-profile-trophy.vercel.app/?username=avie-dev&theme=onedark&title=MultiLanguage,Repositories,Commits,PullRequest,Followers)](https://github.com/avie-dev/avie-dev)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/winarchy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="winarchy_" height="30" width="40" /></a>
-<a href="https://instagram.com/winrko_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="winrko_" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/avie-dev/avie-dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=avie-dev&show_icons=true&theme=radical" /></a>
+  <a href="https://github.com/avie-dev/avie-dev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avie-dev&layout=compact&theme=radical" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=winarchy&show_icons=true&locale=en&layout=compact" alt="winarchy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=winarchy&show_icons=true&locale=en" alt="winarchy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=winarchy&" alt="winarchy" /></p>
-
+#### Twitter
+<hr/>
+<p align="left"> <a href="https://twitter.com/aviedev" target="blank"><img src="https://img.shields.io/twitter/follow/aviedev?logo=twitter&style=for-the-badge" alt="aviedev" /></a> </p> -->
