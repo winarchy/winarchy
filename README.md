@@ -1,4 +1,4 @@
-<!-- # <p align = "center" >Hi 👋, I'm Avie:cherry_blossom: </p> -->
+<!-- # <p align = "center" >Hi 👋, I'm Winarko </p> -->
  <p align = "center" ><img align="center"  src="https://raw.githubusercontent.com/winarchy/winarchy/main/WiNARKO.png" /></p>
 
 <table>
@@ -14,24 +14,25 @@ Tech Stack
 <tr>
  <td width="70%">
    <ul>
-     <li> Hi 👋, I'm Avie:cherry_blossom: </li>
-     <li> A Filipino engineer working in Japan 🇵🇭:jp: 
-     <li> 8 years experience as a Back-end/BI/Data Engineer</li>
-     <li> I'm a community leader at Open Source Software PH (https://ossph.org/)</li>
-     <li> I'm a community manager at 4C (https://www.4c.rocks/) </li>
+     <li> Hi 👋, I'm Winarko </li>
+     <li> A Passionate Back End Developer from Indonesia 🇮🇩</li>
+     <li> Take a course on udemy. The Complete JavaScript Course 2023: From Zero to Expert! by Jonas Schmedtmann </li>
+     <li> Take a course on udemy. NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno) by Maximilian Schwarzmüller</li>
+     <li> Take a course on udemy. The Complete Node.js Developer Course (3rd Edition) by Andrew Mead </li>
      <li> Now studying:   
         <ul> 
-          <li> System design </li>   
-          <li> Digital Illustration </li> 
+          <li> More about Database. ORMs, ACID, Transactions, etc. </li>   
+          <li> Learn about APIs. Authentication, GraphQL, OAuth, etc. </li>
+          <li> Scaling Database. Database Indexes. </li>
+          <li> Caching. Server side (Redis), CDN. </li>
         </ul>          
      </li>  
      <li> Hobbies:
         <ul> 
-          <li> Learning, teaching Japanese Language and talking to people</li>
-          <li> Drawing, reading manga and watching anime </li>
-          <li> Web Design </li>
-          <li> Hosting Twitter Spaces </li>
-          <li> OpenSource </li>
+          <li> Learning, Reading a book while drinking cappuccino</li>
+          <li> Singing in the workroom </li>
+          <li> Web Development </li>
+          <li> mountain climbing and excursions out of town </li>
         </ul>
      </li>  
    </ul> 
